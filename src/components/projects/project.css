@@ -45,6 +45,12 @@
   margin: 3rem 0rem;
 }
 
+.projectBtn a {
+  color: black;
+}
+.projectBtn a:hover {
+  font-weight: bold;
+}
 @media screen and (max-width: 585px) {
   .projectImg {
     height: 48vw;
